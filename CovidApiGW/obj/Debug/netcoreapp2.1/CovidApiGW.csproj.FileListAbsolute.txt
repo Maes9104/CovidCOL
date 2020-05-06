@@ -1,0 +1,17 @@
+M:\ColombiaCovid\CovidCol\CovidApiGW\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+M:\ColombiaCovid\CovidCol\CovidApiGW\bin\Debug\netcoreapp2.1\CovidApiGW.deps.json
+M:\ColombiaCovid\CovidCol\CovidApiGW\bin\Debug\netcoreapp2.1\CovidApiGW.runtimeconfig.json
+M:\ColombiaCovid\CovidCol\CovidApiGW\bin\Debug\netcoreapp2.1\CovidApiGW.runtimeconfig.dev.json
+M:\ColombiaCovid\CovidCol\CovidApiGW\bin\Debug\netcoreapp2.1\CovidApiGW.dll
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.RazorAssemblyInfo.cache
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.RazorAssemblyInfo.cs
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.AssemblyInfoInputs.cache
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.AssemblyInfo.cs
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.RazorTargetAssemblyInfo.cache
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.genruntimeconfig.cache
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.csproj.CoreCompileInputs.cache
+M:\ColombiaCovid\CovidCol\CovidApiGW\bin\Debug\netcoreapp2.1\ocelot.json
+M:\ColombiaCovid\CovidCol\CovidApiGW\bin\Debug\netcoreapp2.1\CovidApiGW.pdb
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.dll
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.pdb
+M:\ColombiaCovid\CovidCol\CovidApiGW\obj\Debug\netcoreapp2.1\CovidApiGW.csprojAssemblyReference.cache

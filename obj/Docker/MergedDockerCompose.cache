@@ -1,0 +1,16 @@
+services:
+  covidcol:
+    build:
+      context: M:\ColombiaCovid\CovidCol
+      dockerfile: CovidCol/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: covidcol
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\micha\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\micha\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

@@ -1,0 +1,8 @@
+M:\ColombiaCovid\CovidCol\bin\Debug\appsettings.Development.json
+M:\ColombiaCovid\CovidCol\bin\Debug\appsettings.json
+M:\ColombiaCovid\CovidCol\bin\Debug\Properties\launchSettings.json
+M:\ColombiaCovid\CovidCol\bin\Debug\CovidCol.dll
+M:\ColombiaCovid\CovidCol\bin\Debug\CovidCol.pdb
+M:\ColombiaCovid\CovidCol\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+M:\ColombiaCovid\CovidCol\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+M:\ColombiaCovid\CovidCol\obj\Debug\docker-compose.dcproj.CopyComplete
